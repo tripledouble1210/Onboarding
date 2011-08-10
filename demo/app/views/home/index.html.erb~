@@ -1,0 +1,2 @@
+<h3>Login Here</h3> <%= link_to "My Blog", new_users_path %>
+<h3>Hello, Rails!</h3> <%= link_to "My Blog", posts_path %>
